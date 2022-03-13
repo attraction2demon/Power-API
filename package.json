@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/attraction2demon/Power-API/issues"
   },
-  "homepage": "https://github.com/attraction2demon/Power-API#readme"
+  "homepage": "https://github.com/attraction2demon/Power-API#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
