@@ -1,0 +1,19 @@
+{
+  "name": "power-api",
+  "version": "1.0.0",
+  "description": "Base for creating API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attraction2demon/Power-API.git"
+  },
+  "author": "attraction2demon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attraction2demon/Power-API/issues"
+  },
+  "homepage": "https://github.com/attraction2demon/Power-API#readme"
+}
